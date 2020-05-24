@@ -43,9 +43,9 @@ npm start
 >_tip_: Do not use **ionic serve**  in production. Instead, build Ionic into a build artifact for your desired platforms.
 [Checkout the Ionic docs to learn more](https://ionicframework.com/docs/cli/commands/build)
 
-## Key Software Design Relevant to Our Coursework
+## Key Software Design Relevant to this Coursework
 
-The frontend framework is a bit beefy; here are the two areas to focus your study.
+Here are the two areas to focus on study::
 
 ### Authentication
 
